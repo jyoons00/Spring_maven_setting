@@ -1,0 +1,10 @@
+package org.doit.ik.mapper;
+
+public interface TimeMapper {
+	
+	String getTime();
+	
+	@Select("SELECT SYSDATE+1 FROM dual");
+	String getNextTime();
+
+}
