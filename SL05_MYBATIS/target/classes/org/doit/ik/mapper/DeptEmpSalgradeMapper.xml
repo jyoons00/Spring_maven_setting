@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+  
+  <mapper namespace="org.doit.ik.mapper.DeptEmpSalgradeMapper">
+  
+  	<select id="getDeptEmpInfo" resultType="DeptEmpSalgradeDTO"> <!-- mybatis-config.xml에서 별칭으로 쓰였기에 가능함, 원래는 풀경로 org부터 넣어야 했다. <typeAlias type="org.doit.ik.domain.DeptEmpSalgradeDTO" alias="DeptEmpSalgradeDTO" /> -->
+  		SELECT d.deptno, dname, empno, ename, job, hiredate, sal, grade
+	    FROM emp e JOIN dept d ON d.deptno = e.deptno
+	               JOIN salgrade s ON sal BETWEEN losal AND hisal
+	    ORDER BY d.deptno ASC
+  	</select>
+  </mapper>

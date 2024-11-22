@@ -1,0 +1,82 @@
+/customer/notice.htm 
+을 요청하기 위한 파일..
+
+Chapter 12 스프링의 트랜잭션 관리 ***
+
+p522
+
+[SL09_NLTRANSACTION2_TXADVICE]
+선언적 트랜잭션 처리
+	1) xml 설정파일 ****
+		<tx:advice> 태그 설정
+		
+   <!-- p522 선언적 트랜잭션 -->
+   <tx:advice id="txAdvice" transaction-manager="transactionManager">
+      <tx:attributes>
+         <tx:method name="insertAndPointUpOfMember" propagation="REQUIRED"/>
+      </tx:attributes>
+   </tx:advice>
+   
+   <aop:config>
+      <aop:pointcut expression="execution(public void insertAndPointUpOfMember(*,*) )"  id="insertOrM"/>
+     <aop:advisor advice-ref="txAdvice" pointcut-ref="insertOrM"/>
+   </aop:config>
+		
+		단 private NoticeDao noticeDao; 로 해야 사용 가능
+		
+		
+		
+		이걸 넣으면
+		<!-- p526 -->   
+   <aop:aspectj-autoproxy proxy-target-class="true" />
+		
+		   private NoticeDaoImpl noticeDao; 로 사용 가능
+		
+	2) @Transactional 어노테이션 사용
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,132 @@
+/customer/notice.htm 
+을 요청하기 위한 파일..
+
+Chapter 12 스프링의 트랜잭션 관리 ***
+
+p514
+
+[전파방식 설명]
+- 트랜잭션 처리를 현재 진행 중에
+	또 다른 트랜잭션 처리를 해야할 경우에
+	어떻게 트랜잭션 처리를 해야할 지 결정하는 속성
+	
+	
+- [											] A 트랜잭션
+      [       ] B 트랜잭션	[   ]C
+	
+	
+	
+SL09_NLTRANSACTION4_PROPAGATITON
+
+트랜잭션 전파와 격리 레벨
+	
+
+NoticeDaoImpl
+		ㄴ insertAndPointUpOfMember()	T 		x
+			ㄴ insert()								T 		o 		test-8			2
+			ㄴ insert()								T 		o		test-8:two		3	오류
+			
+
+
+이유는 ? 동일한(같은) NoticeDaoImpl 클래스 내에서
+			insertAndPointUpOfMember() 메서드에서
+			insert() 메서드를 호출하면
+			이 호출 구조로는 AOP 방식으로 트랜잭션 처리가 되지 않는다... 라고 합니다.
+			
+			
+해결 : 클래스를 나눠서 메서드를 구현	
+		NoticeDaoImpl.insertAndPointUpOfMember()를 -> 다른 클래스 ??? Service 클래스로 만들어서 분리.
+
+
+
+
+
+
+
+
+ALTER TABLE MEMBER
+    ADD(POINT NUMBER(10) DEFAULT(0) );
+
+ALTER TABLE NOTICES
+ADD CONSTRAINT CK_NOTICES_TITLE UNIQUE(TITLE);
+
+ALTER TABLE MEMBER
+    ADD CONSTRAINT CK_NOTICES_POINT CHECK (POINT < 3);
+    
+COMMIT;
+
+-- Notice 테이블에 PK 설정 확인
+
+SELECT *
+FROM user_constraints
+WHERE table_name = 'NOTICES';
+
+-- SEQ 컬럼 PK_NOTICES_SEQ 제약 조건 설정
+ALTER TABLE NOTICES
+ADD CONSTRAINT PK_NOTICES_SEQ PRIMARY KEY (SEQ);
+
+COMMIT;
+
+--
+
+SELECT *
+FROM member;
+
+-- jyoon 회원 가입~
+
+update member
+SET point = 1
+where id = 'lsh';
+commit;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

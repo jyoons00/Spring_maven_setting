@@ -1,0 +1,96 @@
+/customer/notice.htm 
+을 요청하기 위한 파일..
+
+Chapter 12 스프링의 트랜잭션 관리 ***
+SL09_NLTRANSACTION_TMANAGER_TTEMPLE
+
+p505
+
+p512 표 (격리 레벨)
+
+[트랜잭션 처리 필요 부분]
+1. 공지사항 새글 작성 (insert)
+2. 작성자 포인트 1증가 (update)
+	포인트 3 보다 크면 오류 발생시키도록 제약조건...
+
+
+Spring Tiles
+mybatis
+Spring Security
+
+
+
+
+
+ALTER TABLE MEMBER
+    ADD(POINT NUMBER(10) DEFAULT(0) );
+
+ALTER TABLE NOTICES
+ADD CONSTRAINT CK_NOTICES_TITLE UNIQUE(TITLE);
+
+ALTER TABLE MEMBER
+    ADD CONSTRAINT CK_NOTICES_POINT CHECK (POINT < 3);
+    
+COMMIT;
+
+-- Notice 테이블에 PK 설정 확인
+
+SELECT *
+FROM user_constraints
+WHERE table_name = 'NOTICES';
+
+-- SEQ 컬럼 PK_NOTICES_SEQ 제약 조건 설정
+ALTER TABLE NOTICES
+ADD CONSTRAINT PK_NOTICES_SEQ PRIMARY KEY (SEQ);
+
+COMMIT;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

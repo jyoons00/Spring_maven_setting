@@ -26,3 +26,675 @@
 11월 13, 2024 14:14:23.781 [32960:51516:1113/141423.780:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 11월 13, 2024 14:17:49.684 [32960:51516:1113/141749.682:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 11월 13, 2024 14:23:45.770 [32960:51516:1113/142345.770:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 14, 2024 09:01:00.580 NEW SESSION
+11월 14, 2024 09:01:00.580 [64264:67108:1114/090100.578:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 09:01:01.949 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 09:01:25.17 [64264:67108:1114/090125.016:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 09:02:12.687 [64264:67108:1114/090212.685:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 09:03:59.461 [64264:67108:1114/090359.460:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 09:06:43.364 [64264:67108:1114/090643.362:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 09:14:31.120 [64264:67108:1114/091431.119:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 09:15:49.635 [64264:81688:1114/091549.635:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 14, 2024 09:53:20.917 [64264:67108:1114/095320.917:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 14, 2024 10:04:22.999 [64264:67108:1114/100422.997:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 14, 2024 10:37:53.656 [21808:71128:1114/103753.656:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:37:54.305 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 10:38:14.483 [21808:71128:1114/103814.482:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 14, 2024 10:38:19.235 [21808:71128:1114/103819.234:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:39:03.838 [21808:71128:1114/103903.837:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:40:10.990 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 10:40:11.23 [69652:29912:1114/104011.023:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:40:24.476 [69652:12480:1114/104024.475:ERROR:CONSOLE(1)] "Unknown VE context: chrome-extension://abpdnfjocnmdomablahdcfnoggeeiedbResourcesSaver    at a (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:64099)
+11월 14, 2024 10:40:24.477     at e.Me (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:81107)
+11월 14, 2024 10:40:24.477     at devtools://devtools/bundled/devtools-frontend/front_end/ui/components/render_coordinator/render_coordinator.js:1:150", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 14, 2024 10:40:32.172 [69652:29912:1114/104032.171:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:41:19.29 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 10:41:19.56 [37304:46436:1114/104119.056:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:42:19.818 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 10:42:19.947 [44424:27568:1114/104219.947:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:45:08.109 [86560:41736:1114/104508.109:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:45:08.117 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 10:45:34.659 [86560:41736:1114/104534.658:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:46:33.331 [86560:41736:1114/104633.330:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:48:06.255 [86560:41736:1114/104806.253:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:51:35.731 [86560:41736:1114/105135.730:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 10:58:40.680 [86560:41736:1114/105840.679:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 11:01:32.563 [86560:62740:1114/110132.562:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 14, 2024 11:26:45.397 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 11:26:45.471 [2624:65236:1114/112645.470:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 11:27:06.274 [2624:65236:1114/112706.272:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 14, 2024 11:27:06.863 [2624:65236:1114/112706.862:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 11:27:51.956 [2624:65236:1114/112751.954:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 14, 2024 11:40:04.279 NEW SESSION
+11월 14, 2024 11:40:04.279 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 11:40:04.350 [49436:16360:1114/114004.349:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 11:40:25.331 [49436:16360:1114/114025.330:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 11:40:37.734 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 11:40:37.783 [61124:18864:1114/114037.783:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 11:41:06.283 [61124:18864:1114/114106.280:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 11:41:20.997 [61124:79348:1114/114120.997:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 14, 2024 11:41:55.42 [61124:18864:1114/114155.041:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 14, 2024 12:04:19.554 [61124:79348:1114/120419.553:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 14, 2024 12:04:19.785 [61124:79348:1114/120419.784:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 14, 2024 12:07:53.868 [50932:26604:1114/120753.867:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:07:54.618 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 12:08:18.316 [50932:26604:1114/120818.315:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:08:41.44 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 12:08:41.146 [77972:79568:1114/120841.145:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:09:03.888 [77972:79568:1114/120903.887:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:09:44.646 [77972:79568:1114/120944.646:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:11:10.691 [77972:79568:1114/121110.690:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:13:55.557 [77972:79568:1114/121355.557:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:19:47.532 [77972:79568:1114/121947.532:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:46:58.424 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 12:46:58.493 [65776:31372:1114/124658.493:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:47:23.151 [65776:31372:1114/124723.149:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:48:00.111 [65776:31372:1114/124800.111:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 14, 2024 12:48:00.986 [65776:31372:1114/124800.986:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 14, 2024 12:48:16.839 [65776:31372:1114/124816.839:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:49:46.852 [65776:31372:1114/124946.852:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:50:43.635 [65776:31372:1114/125043.635:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 14, 2024 12:52:35.993 [65776:31372:1114/125235.993:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 12:53:20.527 [65776:31372:1114/125320.527:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 14, 2024 12:54:39.404 [65776:31372:1114/125439.404:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 14, 2024 13:51:06.839 [65776:31372:1114/135106.839:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -103
+11월 14, 2024 13:51:08.17 [65776:31372:1114/135108.011:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:21:52.673 [65776:67380:1114/142152.673:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 14, 2024 14:26:46.242 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 14, 2024 14:26:46.334 [32592:36524:1114/142646.334:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:27:15.857 [32592:36524:1114/142715.857:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:27:59.705 [32592:36524:1114/142759.703:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 14, 2024 14:28:59.172 [32592:38088:1114/142859.172:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 14, 2024 14:29:44.292 [32592:36524:1114/142944.292:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 15, 2024 14:30:18.497 NEW SESSION
+11월 15, 2024 14:30:18.497 [59344:44504:1115/143018.483:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:30:19.423 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 15, 2024 14:30:44.267 [59344:44504:1115/143044.265:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:31:26.253 [59344:44504:1115/143126.252:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:33:24.353 [59344:44504:1115/143324.353:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:34:32.337 [59344:44504:1115/143432.337:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 15, 2024 14:34:32.469 [59344:44504:1115/143432.468:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+11월 15, 2024 14:36:05.437 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 15, 2024 14:36:05.551 [45420:25452:1115/143605.551:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:36:26.333 [45420:25452:1115/143626.332:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 15, 2024 14:36:33.307 [45420:25452:1115/143633.306:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:37:14.558 [45420:25452:1115/143714.558:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:39:12.765 [45420:25452:1115/143912.765:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:42:36.654 [45420:25452:1115/144236.653:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:47:33.679 [65412:64120:1115/144733.679:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:47:33.732 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 15, 2024 14:47:37.390 [65412:52348:1115/144737.390:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 15, 2024 14:47:59.449 [65412:64120:1115/144759.448:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:48:59.651 [65412:64120:1115/144859.649:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:50:20.962 [65412:64120:1115/145020.962:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 14:53:51.52 [65412:64120:1115/145351.051:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:00:42.634 [65412:64120:1115/150042.633:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:09:54.672 [70520:52648:1115/150954.672:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:09:54.686 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 15, 2024 15:10:23.215 [70520:52648:1115/151023.213:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:11:06.913 [70520:52648:1115/151106.913:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:13:04.930 [70520:52648:1115/151304.930:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:16:15.658 [70520:52648:1115/151615.657:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:24:13.876 [70520:52648:1115/152413.876:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:43:35.280 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 15, 2024 15:43:35.339 [38208:58568:1115/154335.339:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:43:58.365 [38208:58568:1115/154358.364:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:44:14.496 [38208:48688:1115/154414.496:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 15, 2024 15:44:52.890 [38208:58568:1115/154452.889:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:46:43.605 [38208:58568:1115/154643.605:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:49:54.671 [79096:50808:1115/154954.670:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:49:54.687 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 15, 2024 15:50:14.869 [79096:50808:1115/155014.868:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:51:00.700 [79096:50808:1115/155100.700:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:52:27.534 [79096:50808:1115/155227.534:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 15:56:14.789 [79096:50808:1115/155614.789:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 16:04:04.174 [79096:50808:1115/160404.174:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 16:07:41.111 [79096:80492:1115/160741.111:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 15, 2024 16:20:57.891 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 15, 2024 16:20:58.39 [81328:56972:1115/162058.038:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 16:22:18.930 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 15, 2024 16:22:18.937 [83040:33940:1115/162218.936:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 16:22:45.677 [83040:33940:1115/162245.677:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 15, 2024 16:23:42.726 [83040:33940:1115/162342.725:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 18, 2024 09:02:00.546 NEW SESSION
+11월 18, 2024 09:02:00.546 [75296:51020:1118/090200.545:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 09:02:01.109 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 09:02:28.126 [75296:51020:1118/090228.124:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 09:03:25.151 [75296:51020:1118/090325.151:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 09:05:01.364 [75296:51020:1118/090501.363:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 09:08:48.719 [75296:51020:1118/090848.719:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 09:13:35.243 [75296:40912:1118/091335.242:ERROR:device_event_log_impl.cc(201)] [09:13:35.241] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 18, 2024 09:16:29.331 [75296:51020:1118/091629.331:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 09:22:12.129 [75296:40912:1118/092212.129:ERROR:device_event_log_impl.cc(201)] [09:22:12.128] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 18, 2024 09:42:59.704 [75296:40912:1118/094259.704:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 09:44:57.452 [75296:40912:1118/094457.452:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 10:51:39.854 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 10:51:39.881 [30456:23728:1118/105139.880:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 10:52:03.809 [30456:23728:1118/105203.808:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 10:53:01.895 [30456:23728:1118/105301.895:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 10:53:56.899 [30456:23728:1118/105356.899:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 18, 2024 10:54:07.732 [30456:23728:1118/105407.732:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 18, 2024 10:57:09.41 [30456:23728:1118/105709.039:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -103
+11월 18, 2024 10:57:09.178 [30456:23728:1118/105709.178:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+11월 18, 2024 11:05:45.775 [30456:23728:1118/110545.775:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:09:17.105 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 11:09:17.187 [69764:60284:1118/110917.186:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:09:40.300 [69764:60284:1118/110940.300:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:09:58.752 [69764:68932:1118/110958.751:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 11:10:25.50 [69764:60284:1118/111025.049:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:12:07.922 [69764:60284:1118/111207.922:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:15:43.511 [69764:60284:1118/111543.510:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:20:10.595 [69764:68932:1118/112010.595:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 11:22:31.894 [69764:60284:1118/112231.893:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:24:14.964 [69764:68932:1118/112414.964:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 11:34:06.364 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 11:34:06.371 [2232:79520:1118/113406.370:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:34:27.813 [2232:79520:1118/113427.812:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:35:15.675 [2232:79520:1118/113515.674:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:36:50.488 [2232:79520:1118/113650.488:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:37:20.68 [2232:45700:1118/113720.068:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 11:40:00.297 [2232:79520:1118/114000.296:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:45:56.516 [2232:79520:1118/114556.516:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 18, 2024 11:55:37.946 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 11:55:37.998 [82468:44236:1118/115537.998:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 11:55:48.477 [82468:44236:1118/115548.476:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -331
+11월 18, 2024 12:01:59.331 [82468:44236:1118/120159.330:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:02:09.888 [82468:46968:1118/120209.887:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 12:02:54.756 [82468:44236:1118/120254.755:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:04:22.909 [82468:44236:1118/120422.908:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:07:39.828 [82468:44236:1118/120739.828:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:14:40.971 [82468:44236:1118/121440.970:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:16:57.897 [82468:46968:1118/121657.897:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 12:37:00.431 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 12:37:00.441 [79644:83900:1118/123700.441:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:37:20.773 [79644:83900:1118/123720.772:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:38:07.354 [79644:83900:1118/123807.354:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:39:34.968 [79644:83900:1118/123934.968:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:42:44.615 [79644:83900:1118/124244.615:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 12:43:36.353 [79644:48952:1118/124336.352:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 12:49:09.412 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 12:49:09.497 [27016:53816:1118/124909.497:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 14:01:43.270 [82792:68208:1118/140143.269:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 14:01:43.349 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 14:02:03.717 [82792:68208:1118/140203.716:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 14:02:44.504 [82792:68208:1118/140244.504:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 14:04:33.842 [82792:68208:1118/140433.842:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 14:07:37.536 [82792:68208:1118/140737.535:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 14:07:53.153 [82792:77352:1118/140753.153:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 14:13:19.542 [82792:68208:1118/141319.541:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 15:13:32.855 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 18, 2024 15:13:33.294 [38964:70260:1118/151333.293:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 15:14:02.797 [38964:70260:1118/151402.797:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 18, 2024 15:23:21.121 [38964:62132:1118/152321.121:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 15:31:49.573 [38964:62132:1118/153149.573:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 18, 2024 16:39:43.478 [65800:60264:1118/163943.477:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 18, 2024 16:39:43.506 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+11월 19, 2024 16:09:29.123 NEW SESSION
+11월 19, 2024 16:09:29.123 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2024 16:09:29.126 [84056:64440:1119/160929.125:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2024 17:14:16.572 [7200:75864:1119/171416.569:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2024 17:14:18.609 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2024 17:16:04.862 [42856:50844:1119/171604.861:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2024 17:16:05.19 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2024 17:17:10.140 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2024 17:17:10.188 [35572:44380:1119/171710.188:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2024 17:17:30.908 [35572:44380:1119/171730.906:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 19, 2024 17:17:35.323 [35572:44380:1119/171735.323:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 20, 2024 09:09:35.411 NEW SESSION
+11월 20, 2024 09:09:35.411 [79800:28192:1120/090935.408:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 09:10:11.709 [9540:21680:1120/091011.709:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 09:10:11.927 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 09:12:07.198 [35360:71200:1120/091207.197:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 09:12:07.261 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 09:12:34.558 [35360:71200:1120/091234.558:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 09:13:17.147 [35360:71200:1120/091317.146:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 09:14:54.214 [35360:25120:1120/091454.214:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 09:15:09.741 [35360:71200:1120/091509.741:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 09:15:27.221 [35360:25120:1120/091527.220:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 09:18:15.805 [35360:71200:1120/091815.805:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 09:25:28.859 [35360:71200:1120/092528.858:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 09:52:49.826 [35360:71200:1120/095249.825:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 20, 2024 09:53:38.645 [35360:71200:1120/095338.645:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+11월 20, 2024 09:56:39.843 [35360:71200:1120/095639.842:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 20, 2024 10:04:01.519 [35360:71200:1120/100401.518:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+11월 20, 2024 10:17:45.530 [35360:25120:1120/101745.529:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 10:18:47.509 [35360:25120:1120/101847.508:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 10:19:54.946 [35360:25120:1120/101954.946:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 10:19:56.220 [35360:25120:1120/101956.219:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 10:22:05.549 [35360:25120:1120/102205.549:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 10:33:25.936 [43704:72784:1120/103325.936:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 10:33:26.557 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 10:34:30.362 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 10:34:30.424 [61468:83196:1120/103430.423:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:34:33.900 [61468:13852:1120/103433.899:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 10:34:50.879 [61468:83196:1120/103450.879:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:36:04.980 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 10:36:05.65 [61816:77696:1120/103605.064:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 10:37:47.525 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 10:37:47.572 [37688:75344:1120/103747.572:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:38:10.139 [37688:75344:1120/103810.138:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:38:56.430 [37688:75344:1120/103856.429:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:40:52.354 [37688:75344:1120/104052.354:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:42:14.696 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 10:42:14.772 [60100:67116:1120/104214.771:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:42:37.851 [60100:67116:1120/104237.850:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:43:31.788 [60100:67116:1120/104331.787:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:43:35.199 [60100:84940:1120/104335.199:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 10:45:29.224 [60100:67116:1120/104529.223:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 10:45:49.495 [60100:67116:1120/104549.495:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 20, 2024 10:49:17.300 [60100:67116:1120/104917.299:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 10:52:23.545 [60100:67116:1120/105223.544:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 20, 2024 11:15:59.961 [60100:84940:1120/111559.961:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 11:23:12.313 [79132:57632:1120/112312.313:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 11:23:12.333 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 11:24:08.785 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 11:24:08.878 [35372:23600:1120/112408.878:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:24:38.562 [35372:23600:1120/112438.561:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:25:32.697 [35372:23600:1120/112532.697:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:41:37.386 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 11:41:37.461 [23028:33996:1120/114137.460:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:42:02.35 [23028:33996:1120/114202.034:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 12:05:58.395 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 12:05:58.421 [66124:49244:1120/120558.420:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 12:42:09.789 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 12:42:09.885 [46888:11476:1120/124209.885:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 12:43:12.920 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 12:43:13.02 [30856:55028:1120/124313.002:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 20, 2024 14:05:12.950 NEW SESSION
+11월 20, 2024 14:05:12.950 [81520:44988:1120/140512.948:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 14:05:13.920 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:05:26.884 [81520:81768:1120/140526.883:ERROR:CONSOLE(1)] "Unknown VE context: chrome-extension://abpdnfjocnmdomablahdcfnoggeeiedbResourcesSaver    at a (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:64099)
+11월 20, 2024 14:05:26.884     at e.Me (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:81107)
+11월 20, 2024 14:05:26.885     at devtools://devtools/bundled/devtools-frontend/front_end/ui/components/render_coordinator/render_coordinator.js:1:150", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 14:06:09.644 [86704:49268:1120/140609.643:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 14:06:09.741 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:10:03.811 [86704:20848:1120/141003.811:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 14:13:39.216 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:13:39.294 [63588:74304:1120/141339.294:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:13:59.739 [63588:74304:1120/141359.738:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:14:47.57 [63588:74304:1120/141447.056:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:16:37.108 [63588:74304:1120/141637.107:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:19:56.342 [63588:74304:1120/141956.341:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:26:21.373 [63588:74304:1120/142621.373:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:54:29.144 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:54:29.231 [60396:77092:1120/145429.230:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:54:57.34 [60396:77092:1120/145457.033:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:55:25.245 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:55:25.264 [22276:17800:1120/145525.263:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:55:49.23 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:55:49.72 [25392:40408:1120/145549.071:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:56:17.564 [25392:40408:1120/145617.563:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 14:57:10.24 [25392:40408:1120/145710.023:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 20, 2024 15:07:36.134 [44428:30380:1120/150736.133:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:07:36.750 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:07:59.652 [44428:30380:1120/150759.652:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:08:40.465 [44428:30380:1120/150840.464:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:14:22.425 [42248:28656:1120/151422.424:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:14:22.435 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:14:43.531 [42248:28656:1120/151443.530:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:15:41.590 [42248:28656:1120/151541.590:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 20, 2024 15:20:49.771 NEW SESSION
+11월 20, 2024 15:20:49.771 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:20:49.839 [43100:51936:1120/152049.839:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:21:23.272 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:21:23.366 [20740:78584:1120/152123.366:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:21:44.244 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:21:44.326 [37920:33540:1120/152144.325:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:22:46.493 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:22:46.501 [28072:83964:1120/152246.500:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:23:16.33 [28072:83964:1120/152316.033:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:23:57.751 [28072:83964:1120/152357.750:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:25:32.651 [28072:83964:1120/152532.650:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:25:48.205 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:25:48.217 [64480:25424:1120/152548.217:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:26:09.584 [64480:25424:1120/152609.584:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:27:02.204 [64480:25424:1120/152702.203:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:28:27.910 [64480:25424:1120/152827.909:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 20, 2024 15:28:52.148 [64480:50384:1120/152852.147:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 15:30:04.429 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:30:04.519 [48968:37084:1120/153004.519:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:30:25.217 [48968:37084:1120/153025.217:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:31:25.210 [48968:37084:1120/153125.210:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:33:01.668 [48968:37084:1120/153301.668:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:36:50.961 [48968:37084:1120/153650.961:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:42:32.485 [48968:37084:1120/154232.485:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:44:04.156 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:44:04.223 [15336:40784:1120/154404.222:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:44:27.694 [15336:40784:1120/154427.694:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:45:12.277 [15336:40784:1120/154512.276:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:46:49.552 [15336:40784:1120/154649.551:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:49:58.405 [15336:40784:1120/154958.404:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:05:47.713 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 16:05:47.783 [75908:79460:1120/160547.782:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:06:12.269 [75908:79460:1120/160612.268:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:06:36.09 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 16:06:36.122 [9656:59928:1120/160636.121:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:07:02.743 [9656:59928:1120/160702.742:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:14:28.555 [75576:82556:1120/161428.555:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:14:28.557 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 16:14:58.167 [75576:82556:1120/161458.167:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:14:58.390 [75576:49136:1120/161458.390:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 16:15:47.350 [75576:82556:1120/161547.349:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:17:11.13 [75576:82556:1120/161711.012:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:20:30.712 [75576:82556:1120/162030.712:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 20, 2024 16:31:27.838 NEW SESSION
+11월 20, 2024 16:31:27.838 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 16:31:27.928 [54824:24176:1120/163127.928:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:31:57.79 [54824:24176:1120/163157.078:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:32:56.805 [54824:24176:1120/163256.804:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:34:31.420 [54824:24176:1120/163431.420:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:37:24.956 [54824:24176:1120/163724.955:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:43:48.391 [54824:24176:1120/164348.390:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:48:23.784 [54824:30576:1120/164823.784:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 20, 2024 16:48:48.697 [54824:24176:1120/164848.695:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+11월 21, 2024 10:46:55.812 NEW SESSION
+11월 21, 2024 10:46:55.813 [26568:10468:1121/104655.810:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 10:46:56.617 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 10:47:17.724 [26568:10468:1121/104717.724:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 10:48:13.164 [26568:10468:1121/104813.164:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 10:49:34.674 [26568:10468:1121/104934.674:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 10:52:40.201 [26568:10468:1121/105240.201:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 10:55:29.613 [19924:67976:1121/105529.613:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 10:55:29.713 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 10:55:50.991 [19924:67976:1121/105550.991:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 10:56:26.203 [19924:54048:1121/105626.203:ERROR:CONSOLE(1)] "Unknown VE context: chrome-extension://abpdnfjocnmdomablahdcfnoggeeiedbResourcesSaver    at a (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:64099)
+11월 21, 2024 10:56:26.204     at e.Me (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:81107)
+11월 21, 2024 10:56:26.204     at devtools://devtools/bundled/devtools-frontend/front_end/ui/components/render_coordinator/render_coordinator.js:1:150", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 10:56:49.741 [19924:67976:1121/105649.740:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 10:58:48.310 [19924:67976:1121/105848.308:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 11:01:51.416 [19924:67976:1121/110151.416:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 11:07:23.261 [19924:67976:1121/110723.260:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 11:13:50.405 [19924:54048:1121/111350.404:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 21, 2024 12:28:15.748 [66400:69080:1121/122815.747:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:28:15.824 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 12:28:43.452 [66400:69080:1121/122843.452:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:29:09.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 12:29:09.182 [79924:37632:1121/122909.182:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:29:30.320 [79924:37632:1121/122930.319:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:30:27.907 [79924:37632:1121/123027.906:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:32:24.867 [79924:37632:1121/123224.866:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:33:57.179 [79924:63664:1121/123357.179:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 21, 2024 12:35:14.219 [79924:37632:1121/123514.218:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:45:14.208 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 12:45:14.327 [52560:73052:1121/124514.326:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:45:37.415 [52560:73052:1121/124537.414:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:46:21.244 [52560:73052:1121/124621.243:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:47:50.139 [52560:73052:1121/124750.138:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:00:08.867 [25588:68236:1121/140008.866:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:00:10.24 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:00:34.234 [25588:68236:1121/140034.234:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:01:28.270 [25588:68236:1121/140128.269:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:03:05.47 [25588:68236:1121/140305.045:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:06:05.940 [25588:68236:1121/140605.938:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:06:44.486 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:06:44.584 [86580:29896:1121/140644.584:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:07:10.546 [86580:29896:1121/140710.545:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:07:33.796 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:07:33.974 [77116:65380:1121/140733.973:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:07:55.340 [77116:65380:1121/140755.340:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:08:42.215 [77116:65380:1121/140842.215:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:15:50.265 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:15:50.339 [35924:80712:1121/141550.338:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:16:20.173 [35924:80712:1121/141620.173:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:17:01.857 [35924:80712:1121/141701.854:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:18:48.656 [35924:80712:1121/141848.656:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:21:33.922 [35924:80712:1121/142133.920:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:25:06.308 [45112:86788:1121/142506.307:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:25:06.430 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:25:29.111 [45112:86788:1121/142529.110:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:26:11.875 [45112:86788:1121/142611.875:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:27:10.780 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:27:10.829 [80756:52628:1121/142710.829:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2024 14:27:34.345 [80756:87912:1121/142734.345:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 21, 2024 14:31:50.908 [80756:52628:1121/143150.907:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 21, 2024 14:31:51.24 [80756:52628:1121/143151.023:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+11월 21, 2024 14:32:14.885 [80756:52628:1121/143214.883:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 21, 2024 14:39:28.970 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:39:29.16 [11300:49688:1121/143929.015:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:39:51.405 [11300:49688:1121/143951.404:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:40:46.407 [11300:49688:1121/144046.407:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:42:18.605 [11300:43400:1121/144218.604:ERROR:CONSOLE(1)] "Unknown VE context: chrome-extension://abpdnfjocnmdomablahdcfnoggeeiedbResourcesSaver    at a (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:64099)
+11월 21, 2024 14:42:18.605     at e.Me (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:81107)
+11월 21, 2024 14:42:18.605     at devtools://devtools/bundled/devtools-frontend/front_end/ui/components/render_coordinator/render_coordinator.js:1:150", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 14:42:20.936 [11300:49688:1121/144220.936:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:46:20.388 [11300:49688:1121/144620.387:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:50:34.728 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:50:34.841 [76760:55660:1121/145034.840:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:50:55.612 [76760:55660:1121/145055.610:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 21, 2024 14:50:55.761 [76760:55660:1121/145055.759:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:51:35.119 [76760:40468:1121/145135.119:ERROR:chrome_web_ui_controller_factory.cc(458)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 21, 2024 14:51:53.992 [76760:55660:1121/145153.992:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:53:31.756 [76760:55660:1121/145331.755:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:54:07.38 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:54:07.151 [1084:42488:1121/145407.150:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:54:30.39 [1084:42488:1121/145430.039:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:55:10.427 [1084:42488:1121/145510.425:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:05:25.221 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:05:25.319 [18488:81980:1121/150525.318:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:05:46.831 [18488:81980:1121/150546.831:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:06:29.837 [18488:81980:1121/150629.836:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:07:52.855 [18488:81980:1121/150752.855:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:11:03.974 [18488:81980:1121/151103.973:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:17:38.227 [18488:81980:1121/151738.226:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:18:28.614 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:18:28.757 [15296:71448:1121/151828.757:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:18:50.691 [15296:71448:1121/151850.690:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:19:35.993 [15296:71448:1121/151935.993:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:20:08.706 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:20:08.820 [83344:66576:1121/152008.820:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:20:30.27 [83344:66576:1121/152030.026:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:21:28.211 [83344:66576:1121/152128.209:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:23:08.988 [83344:66576:1121/152308.988:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:24:30.263 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:24:30.379 [38624:61096:1121/152430.379:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:24:53.14 [38624:61096:1121/152453.013:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:25:50.886 [38624:61096:1121/152550.885:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:27:16.33 [38624:61096:1121/152716.032:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:29:23.579 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:29:23.678 [34436:52248:1121/152923.678:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:29:50.546 [34436:52248:1121/152950.545:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:30:48.873 [34436:52248:1121/153048.872:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:31:17.124 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:31:17.253 [46152:26484:1121/153117.253:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:31:38.551 [46152:26484:1121/153138.550:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:32:15.811 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:32:15.909 [68000:64756:1121/153215.908:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:32:36.59 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:32:36.163 [29724:21796:1121/153236.163:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:32:58.30 [29724:21796:1121/153258.029:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:33:42.359 [29724:21796:1121/153342.358:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:35:34.255 [29724:21796:1121/153534.254:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:38:27.27 [29724:21796:1121/153827.027:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:44:46.752 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:44:46.882 [45968:44392:1121/154446.882:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:45:07.400 [45968:44392:1121/154507.399:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:45:48.799 [45968:44392:1121/154548.798:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:46:22.942 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:46:23.91 [82448:26272:1121/154623.090:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:46:43.885 [82448:26272:1121/154643.884:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:47:41.263 [82448:26272:1121/154741.263:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:49:41.416 [82448:26272:1121/154941.415:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:52:35.411 [82448:26272:1121/155235.411:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:53:23.734 [66428:61816:1121/155323.734:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2024 15:53:24.68 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:54:45.797 [66428:61816:1121/155445.797:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 21, 2024 16:01:03.538 [66428:44044:1121/160103.537:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 21, 2024 16:01:03.759 [66428:44044:1121/160103.757:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 21, 2024 16:11:52.629 [8792:23524:1121/161152.629:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:11:53.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:12:13.466 [8792:23524:1121/161213.466:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2024 16:28:00.66 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:28:00.126 [86088:41620:1121/162800.126:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:28:26.64 [86088:41620:1121/162826.063:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2024 16:46:18.518 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:46:18.683 [49724:75072:1121/164618.682:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:46:40.82 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:46:40.207 [53500:37632:1121/164640.206:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:47:10.207 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:47:10.288 [77340:54184:1121/164710.288:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:50:24.335 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:50:24.392 [37044:34248:1121/165024.391:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:51:23.338 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:51:23.501 [73384:25268:1121/165123.501:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:51:43.787 [73384:25268:1121/165143.787:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:52:44.428 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:52:44.495 [81076:59000:1121/165244.494:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:53:07.339 [81076:59000:1121/165307.339:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2024 17:00:54.505 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 17:00:54.583 [63532:33804:1121/170054.583:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 17:01:15.104 [63532:33804:1121/170115.103:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 17:01:15.359 [63532:33804:1121/170115.358:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 21, 2024 17:02:07.248 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 17:02:07.307 [80120:50464:1121/170207.307:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 17:02:36.417 [80120:50464:1121/170236.416:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 17:03:24.14 [80120:50464:1121/170324.013:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2024 17:03:42.285 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 17:03:42.399 [44612:24876:1121/170342.399:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 17:04:07.448 [44612:24876:1121/170407.448:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 17:04:51.785 [44612:24876:1121/170451.785:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 17:06:29.508 [44612:24876:1121/170629.508:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 22, 2024 09:13:22.511 NEW SESSION
+11월 22, 2024 09:13:22.511 [56448:37496:1122/091322.509:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 09:13:22.616 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 09:13:49.599 [56448:37496:1122/091349.598:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 09:14:40.619 [56448:37496:1122/091440.618:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 09:16:40.709 [56448:37496:1122/091640.709:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 09:20:20.972 [56448:37496:1122/092020.971:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 09:27:40.90 [56448:37496:1122/092740.087:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 09:37:11.986 [56448:86756:1122/093711.985:ERROR:device_event_log_impl.cc(201)] [09:37:11.986] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 22, 2024 09:37:12.04 [56448:86756:1122/093712.004:ERROR:device_event_log_impl.cc(201)] [09:37:12.003] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: �궗�슜 媛��뒫�븳 �뜲�씠�꽣媛� �뾾�뒿�땲�떎. (0x103)
+11월 22, 2024 09:38:10.251 [56448:86756:1122/093810.251:ERROR:device_event_log_impl.cc(201)] [09:38:10.251] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 22, 2024 09:38:10.267 [56448:86756:1122/093810.266:ERROR:device_event_log_impl.cc(201)] [09:38:10.266] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: �궗�슜 媛��뒫�븳 �뜲�씠�꽣媛� �뾾�뒿�땲�떎. (0x103)
+11월 22, 2024 09:44:02.726 [56448:86756:1122/094402.725:ERROR:device_event_log_impl.cc(201)] [09:44:02.717] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 22, 2024 09:44:02.733 [56448:86756:1122/094402.732:ERROR:device_event_log_impl.cc(201)] [09:44:02.733] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: �궗�슜 媛��뒫�븳 �뜲�씠�꽣媛� �뾾�뒿�땲�떎. (0x103)
+
+11월 22, 2024 10:09:10.205 NEW SESSION
+11월 22, 2024 10:09:10.205 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 10:09:10.283 [8668:8244:1122/100910.282:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 22, 2024 10:19:50.753 [3132:18924:1122/101950.753:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:19:50.768 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 10:20:11.594 [3132:18924:1122/102011.594:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 22, 2024 10:20:11.654 [3132:18924:1122/102011.654:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:21:07.824 [3132:18924:1122/102107.824:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:22:53.649 [3132:18924:1122/102253.647:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:26:37.255 [3132:18924:1122/102637.255:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:34:02.97 [3132:18924:1122/103402.096:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:24:33.733 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 11:24:33.758 [8956:16140:1122/112433.758:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:24:58.864 [8956:16140:1122/112458.862:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:25:48.560 [8956:16140:1122/112548.559:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:27:37.534 [8956:16140:1122/112737.534:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:30:35.380 [8956:16140:1122/113035.377:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:37:08.113 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 11:37:08.145 [18880:5848:1122/113708.145:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:37:35.110 [18880:5848:1122/113735.107:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:38:19.219 [18880:5848:1122/113819.219:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:40:48.445 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 11:40:48.487 [10460:6508:1122/114048.487:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:41:13.942 [10460:6508:1122/114113.942:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:41:55.939 [10460:6508:1122/114155.938:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:43:19.669 [10460:6508:1122/114319.668:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:38:12.734 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 12:38:12.815 [13688:3940:1122/123812.815:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:38:34.471 [13688:3940:1122/123834.470:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:39:29.360 [13688:3940:1122/123929.356:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:41:16.885 [13688:3940:1122/124116.884:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:41:24.189 [13688:17516:1122/124124.189:ERROR:CONSOLE(1)] "Unknown VE context: chrome-extension://abpdnfjocnmdomablahdcfnoggeeiedbResourcesSaver    at a (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:66546)
+11월 22, 2024 12:41:24.190     at e.Me (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:83574)
+11월 22, 2024 12:41:24.190     at devtools://devtools/bundled/devtools-frontend/front_end/ui/components/render_coordinator/render_coordinator.js:1:150", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 12:44:18.991 [13688:3940:1122/124418.991:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:47:48.856 [13688:3940:1122/124748.855:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 22, 2024 13:33:39.578 [13688:17516:1122/133339.577:ERROR:device_event_log_impl.cc(201)] [13:33:39.572] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 22, 2024 13:33:39.628 [13688:17516:1122/133339.627:ERROR:device_event_log_impl.cc(201)] [13:33:39.613] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+11월 22, 2024 13:33:41.202 [13688:3940:1122/133341.201:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:33:41.289 [13688:3940:1122/133341.289:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+11월 22, 2024 13:33:57.263 [13688:17516:1122/133357.261:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 13:37:24.17 [13688:17516:1122/133724.015:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 13:37:26.863 [13688:17516:1122/133726.862:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 13:39:11.743 [13688:17516:1122/133911.743:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 13:45:21.960 [13688:17516:1122/134521.959:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 13:54:15.256 [23068:12132:1122/135415.255:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:54:15.722 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 13:54:40.801 [23068:12132:1122/135440.800:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:54:51.454 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 13:54:51.565 [22080:9488:1122/135451.565:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:55:05.907 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 13:55:05.989 [20508:20248:1122/135505.989:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:55:30.36 [20508:20248:1122/135530.036:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:56:18.618 [20508:20248:1122/135618.617:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:58:07.726 [20508:20248:1122/135807.725:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 14:01:26.128 [20508:20248:1122/140126.128:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 14:08:26.803 [20508:20248:1122/140826.801:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 14:16:38.752 [21712:20732:1122/141638.751:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 14:16:38.871 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 14:17:00.488 [21712:20732:1122/141700.488:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 14:17:47.618 [21712:20732:1122/141747.617:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 14:19:29.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 14:19:29.151 [21772:15788:1122/141929.150:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 14:19:49.933 [21772:15788:1122/141949.933:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 22, 2024 14:19:53.388 [21772:15788:1122/141953.386:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 14:20:37.962 [21772:15788:1122/142037.961:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 22, 2024 15:04:38.107 NEW SESSION
+11월 22, 2024 15:04:38.107 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 15:04:38.199 [21948:9380:1122/150438.199:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:04:58.981 [21948:9380:1122/150458.977:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+11월 22, 2024 15:05:00.524 [21948:9380:1122/150500.523:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:05:51.462 [21948:9380:1122/150551.462:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:07:25.11 [21948:9380:1122/150725.011:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:10:39.733 [21948:9380:1122/151039.732:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:18:15.328 [21948:9380:1122/151815.326:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:49:56.442 [21948:20908:1122/154956.441:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 15:54:36.266 [21348:9244:1122/155436.266:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:54:36.322 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 15:54:58.347 [21348:9244:1122/155458.346:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:55:45.685 [21348:9244:1122/155545.685:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:57:09.158 [21348:9244:1122/155709.158:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 22, 2024 15:57:34.913 [21348:9244:1122/155734.912:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:00:54.214 [21348:18308:1122/160054.214:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 16:01:29.955 [21348:9244:1122/160129.953:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:01:57.05 [21348:18308:1122/160157.004:ERROR:CONSOLE(1)] "Unknown VE context: chrome-extension://abpdnfjocnmdomablahdcfnoggeeiedbResourcesSaver    at a (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:66546)
+11월 22, 2024 16:01:57.05     at e.Me (devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js:1:83574)
+11월 22, 2024 16:01:57.06     at devtools://devtools/bundled/devtools-frontend/front_end/ui/components/render_coordinator/render_coordinator.js:1:150", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 16:02:27.583 [21348:18308:1122/160227.582:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 22, 2024 16:03:40.396 [21348:18308:1122/160340.396:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 16:05:46.132 [21348:18308:1122/160546.132:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 16:07:32.823 [21348:9244:1122/160732.823:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:12:39.577 [21348:18308:1122/161239.576:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 16:15:18.241 [1164:19100:1122/161518.241:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:15:18.819 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 16:15:38.837 [1164:19100:1122/161538.835:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:16:20.856 [1164:19100:1122/161620.855:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:18:12.582 [1164:19100:1122/161812.581:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:21:10.572 [1164:19100:1122/162110.570:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:28:39.903 [21004:11268:1122/162839.903:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:28:40.65 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 16:29:03.505 [21004:11268:1122/162903.503:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:29:58.835 [21004:11268:1122/162958.834:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:31:35.664 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 16:31:35.801 [22644:14220:1122/163135.801:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:31:56.893 [22644:14220:1122/163156.892:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:32:51.86 [22644:11852:1122/163251.085:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 16:32:54.472 [22644:14220:1122/163254.470:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:39:11.30 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 16:39:11.76 [10612:14284:1122/163911.075:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:39:40.47 [10612:14284:1122/163940.046:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:40:40.253 [10612:14284:1122/164040.252:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:42:39.859 [10612:14284:1122/164239.857:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:42:50.260 [10612:1952:1122/164250.259:ERROR:chrome_web_ui_controller_factory.cc(281)] Requested load of chrome://newtab/ for incorrect profile type.
+11월 22, 2024 16:46:16.719 [10612:14284:1122/164616.718:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:53:13.310 [10612:14284:1122/165313.310:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:53:39.826 [10612:14284:1122/165339.824:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 22, 2024 16:54:58.412 [10612:14284:1122/165458.411:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+11월 22, 2024 17:02:35.621 [10612:1952:1122/170235.620:ERROR:device_event_log_impl.cc(201)] [17:02:35.620] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)

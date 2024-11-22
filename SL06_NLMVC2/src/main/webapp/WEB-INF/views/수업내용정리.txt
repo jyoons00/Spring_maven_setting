@@ -1,0 +1,26 @@
+[NLMVC 2]
+
+1. 문제점 
+1) 공지사항 목록보기(notice.htm) 요청 시, 컨트롤러에 맵핑되어 있음 (NoticeController)
+2) 공지사항 상세보기(noticeDetail.htm) 요청 시, NoticeDetailController 맵핑.
+:: 공지사항과 관련된 매핑은 하나의 컨트롤러가 생성. + 컨트롤러 메서드와 매핑
+3) servlet-context.xml 
+	<bean> 빈 생성 + DI  => @어노테이션으로 생성, 주입 (자동 처리)
+	
+   11/21(목)
+   공지사항 jsp의 글쓰기 버튼(href)부터 바꿔주고
+   -1-CustomerController에 컨트롤러 메서드 추가 
+   -2- noticeReg.jsp 글쓰기 페이지 포워딩
+   
+   글 수정하기
+   <a class="btn-edit button" href="noticeEdit.htm?seq=${notice.seq}">수정</a>
+   -1- 컨트롤러 메서드 추가
+   -2- 글 수정 완료-> 상세보기 페이지로 포워딩
+   
+   
+   * 공지사항 상세보기에서 <> 이런거 태그로 인식해서 안보이는데 c:out으로 처리해주면 글로 보임
+   
+   * 글쓰기 로그인 검증? AOP (메서드 호출 시에 PointCut 가능하니까 AOP로 로그인 헀는지 검사하면됨 - 스프링 시큐리티?)
+   
+   
+   
